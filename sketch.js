@@ -107,7 +107,7 @@ function draw(){
   var distanceIvo = calcGeoDistance(myLoc.latitude, myLoc.longitude, ivoLat, ivoLng, "km");
   var distanceTotti = calcGeoDistance(myLoc.latitude, myLoc.longitude, tottiLat, tottiLng, "km");
 
-  //cat cafes
+  // things that Azzurra loves
   fill('#ff00a7');
   stroke ('black');
   strokeWeight(1);
